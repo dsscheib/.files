@@ -1,0 +1,2 @@
+# .files
+Mac dot files
